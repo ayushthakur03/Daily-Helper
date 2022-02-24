@@ -1,0 +1,93 @@
+body
+{
+    background-color: whitesmoke;
+    font-family: cursive;
+    margin-left: 1vw;
+}
+
+#heading-title
+{
+    text-align: center;
+    margin-top: 1.3%;
+    color:blueviolet;
+    border-bottom: 1px solid black;
+}
+
+#description{
+    width: 100vw;
+}
+
+.heading{
+    font-size: 1.1rem;
+}
+
+#task-container{
+    width:100vw;
+    height:5vh;
+    border:hidden;
+    border-bottom: 1px solid black;
+}
+
+#dropdown{
+    width: 40vw;
+}
+
+.date-margin{
+    margin-left: 2%;
+    margin-top: -0.4%;
+}
+
+.violet{
+    background-color: violet;
+}
+
+.cyan{
+    background-color: cyan;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+#my_date_picker{
+    margin-left: 20vw;
+    width: 40vw;
+}
+
+#button-section{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+   
+}
+
+#add-btn{
+    width: 17vw;
+    height:6vh;
+    color:white;
+    background-color: limegreen;
+}
+
+#del-btn{
+    width: 17vw;
+    height:6vh;
+    margin-left: 2vw;
+    text-align: center;
+    color:white;
+    background-color: red;
+}
+
+#display{
+    height:60vh;
+    width:70vw;
+    margin: auto;
+    margin-top: 5%;
+    padding: 1%;
+    font-family: sans-serif;
+}
+
+.trash-del{
+    margin-top: 4%;
+    
+}
+
